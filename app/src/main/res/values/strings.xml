@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="profile">profile</string>
+    <string name="logo">logo</string>
+    <string name="search">search</string>
+    <string name="payment">Оплата</string>
+    <string name="main">Главная</string>
+    <string name="settings">Настройки</string>
+</resources>
+
